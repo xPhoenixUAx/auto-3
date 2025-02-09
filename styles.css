@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -451,6 +454,24 @@ body::-webkit-scrollbar {
   .service-card {
     width: 85%;
     margin-bottom: 20px;
+  }
+  .services h2 {
+    font-size: 2em;
+  }
+
+  .services-description {
+    font-size: 1em;
+  }
+
+  .service-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .service-card img {
+    width: 80%;
+    max-width: 120px;
+    margin-bottom: 15px;
   }
 }
 
