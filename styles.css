@@ -185,7 +185,7 @@ body::-webkit-scrollbar {
 /* Для екранів шириною до 768px */
 @media (max-width: 768px) {
   .hero-title {
-    font-size: 4.5em;
+    font-size: 3.5em;
     text-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
   }
 
@@ -223,7 +223,7 @@ body::-webkit-scrollbar {
 /* Для екранів шириною до 480px */
 @media (max-width: 480px) {
   .hero-title {
-    font-size: 3.2em;
+    font-size: 2.7em;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
   }
 
